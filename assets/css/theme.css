@@ -19547,7 +19547,7 @@ iframe {
 }
 
 .card.service-card:before {
-  content: '';
+  /* content: '';
   position: absolute;
   left: 0.625rem;
   bottom: 0.625rem;
@@ -19558,7 +19558,7 @@ iframe {
   z-index: -1;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; */
 }
 
 @media (max-width: 767.98px) {
